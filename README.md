@@ -12,5 +12,5 @@ Keyboard: arrows to move, Enter to open, Esc to close, M for modes.
 
 ## Credits
 
-- **Castle Home** (Harry Potter mode) is a fan-made project by its original creator, adapted here as a browser preview with the creator's permission - [original project and guide](https://drive.google.com/drive/folders/1jeKucAZAt9xSDdZFsov3JPA-OPHUc8Fd). Not affiliated with or endorsed by Warner Bros., Wizarding World or J.K. Rowling. Film posters come from TMDB; app logos belong to their owners.
+- **Castle Home** (Harry Potter mode) is a fan-made project by its original creator, adapted here as an interactive browser preview - [original project and guide](https://drive.google.com/drive/folders/1jeKucAZAt9xSDdZFsov3JPA-OPHUc8Fd). Not affiliated with or endorsed by Warner Bros., Wizarding World or J.K. Rowling. Film posters come from TMDB; app logos belong to their owners.
 - Backdrop photos: [Unsplash](https://unsplash.com).
